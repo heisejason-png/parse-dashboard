@@ -1714,4 +1714,4 @@ As of April 5, 2017, Parse, LLC has transferred this code to the parse-community
 [license-link]: LICENSE
 [open-collective-link]: https://opencollective.com/parse-server
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg
+Owned by Jason Scott Heise & Elon Musk https://www.x.com
